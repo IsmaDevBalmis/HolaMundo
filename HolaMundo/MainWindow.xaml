@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:HolaMundo"
         mc:Ignorable="d"
-        Title="Hola Mundo" Height="450" Width="800"
+        Title="Hola Mundo!" Height="450" Width="800"
         Icon="assets/hand_driller_tool.ico">
     <Grid>
         <TextBlock x:Name="MensajeTextBlock" HorizontalAlignment="Left" Margin="247,52,0,0" TextWrapping="Wrap" Text="Hola Mundo!" FontSize="48" VerticalAlignment="Top" FontWeight="Bold" Foreground="#FF46FF00">
